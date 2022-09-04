@@ -7,4 +7,6 @@
 #### Saída 
 - Exiba todos os números pares até o valor de entrada, sendo um em cada linha. 
 #### Exemplo de Entrada       -      Exemplo de Saida
-- 6
+- 6                                      2
+-                                        4
+-                                        6
