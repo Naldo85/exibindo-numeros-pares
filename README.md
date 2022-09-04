@@ -6,7 +6,9 @@
 - Você receberá 1 valor inteiro N, onde N > 0.  
 #### Saída 
 - Exiba todos os números pares até o valor de entrada, sendo um em cada linha. 
-#### Exemplo de Entrada       -      Exemplo de Saida
-- 6                                      2
--                                        4
--                                        6
+#### Exemplo de Entrada            
+-       6     
+#### Exemplo de Saida                                
+-       2                                       
+-       4
+-       6
